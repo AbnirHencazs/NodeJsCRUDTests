@@ -57,9 +57,5 @@ npm run test:e2e
 1. Debes tener mongoDB en local corriendo para hacer las pruebas.
 2. Y poner las variables de ambiente en el archivo `.env`.
 
-
-## Enviar solución de reto
-Debes de crear un "Fork" de este proyecto, revolverlo desde tu cuenta personal.
-
 ### Licencia
 La licencia [MIT](https://opensource.org/licenses/MIT).
